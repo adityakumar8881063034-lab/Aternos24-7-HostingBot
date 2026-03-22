@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Peacfulsmp95.aternos.me",
+    "ip": "Peacfulsmp95.aternos.me:35329",
     "port": 35329,
     "version": "",
     "try-creative": false
