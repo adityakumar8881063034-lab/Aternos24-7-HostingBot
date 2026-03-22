@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Peacfulsmp95.aternos.me:35329",
-    "port": 35329,
+    "ip": "peacful09.minehost.games",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
